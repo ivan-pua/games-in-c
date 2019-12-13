@@ -1,17 +1,12 @@
-# C
+# Fun games to Play in C Language
 
-This repo consists of my work in COMP2521 - Data Structures and Algorithms, some of the notable ones include:
-* Breadth-first and Depth-first search
-* Reverse a double linked list
-* Identifying a perfectly balanced tree
+I have developed two interesting games in C langauge:
+## 1. You Chew
 
-The input tests and header files are included in this repo.
+This program finds the maximum score of a game called You Chew, which is played by rolling a 9-sided dice five times. Valid rules and conditions are present in this game
 
-Also, I have completed two assignments:
-## 1. Text Buffer
+## 2. CWords
 
-To implement an abstract textbuffer data type that meets the given interface.
+This program is to see words that be created from the letters given in a way to maximise the score. It's inspired by the board game Scrabble.
 
-## 2. Social Network Analysis
-
-To implement graph based data analysis functions (ADTs) to mine a given social network and perform Hierarchical Agglomerative Clustering (HAC)
+### Happy playing! :)
